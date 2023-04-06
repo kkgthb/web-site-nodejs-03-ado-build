@@ -62,7 +62,7 @@ After these steps finish executing, it's safe for Azure DevOps to let the agent 
 1. In the left-hand navigation of Azure DevOps, click on "**Pipelines**."
 1. Beneath that, click "**Pipelines**."
     * _(It takes you to a URL like `https://dev.azure.com/YOUR-ADO-ORG-NAME/YOUR-ADO-PROJECT-NAME/_build`.)_
-1. Click "**New Pipeline**."
+1. Click "**New Pipeline**" _(upper right)_ if it's not your first, or "**Create Pipeline**" _(center)_ if it is your first pipeline.
 1. Select the "**Azure Repos Git**" option.
 1. Enter **the name of the repository you created** when you imported a copy of my codebase.
 1. Select the "**Existing Azure Pipelines YAML file**" option.
